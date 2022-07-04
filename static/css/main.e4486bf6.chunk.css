@@ -1,0 +1,2 @@
+.App{font-size:16px;background-color:#fff;text-align:center}.App__title{font-size:35px}.todos{list-style:none;display:flex;align-items:center;flex-direction:column;grid-gap:20px;gap:20px}.todos__item{background-color:#f0edcb;width:500px;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s}.todos__item:hover{-webkit-transform:scale(110%);transform:scale(110%)}
+/*# sourceMappingURL=main.e4486bf6.chunk.css.map */
